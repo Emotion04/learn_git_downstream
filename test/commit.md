@@ -6,7 +6,7 @@
 
 `git commit -a(ll)`	直接提交
 
-git commit -am "?"
+git commit -am "?"	q
 
 
 
